@@ -1,0 +1,7 @@
+{
+  "name": "MediLens AI",
+  "description": "AI-Powered Medical Prescription Scanner, Drug Safety Intelligence & Medication Schedule Adherence Platform",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
