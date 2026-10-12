@@ -736,14 +736,7 @@ All routes enforce strict JSON responses or authenticated template views.
 
 ---
 
-## 22. Author & Developer Profile
 
-Crafted, engineered, and maintained with clinical precision by **Mayur Singh**:
-
-- **GitHub Profile**: [@mayursingh24](https://github.com/mayursingh24)
-- **LinkedIn**: [https://www.linkedin.com/in/mayursingh24](https://www.linkedin.com/in/mayursingh24)
-- **Repository**: [https://github.com/mayursingh24/MediLens-AI](https://github.com/mayursingh24/MediLens-AI)
-- **Live Production Application**: **[https://medilens-ai-production-d76e.up.railway.app/](https://medilens-ai-production-d76e.up.railway.app/)**
 
 Contributions, clinical feedback, and inquiries are welcome via GitHub Issues and Pull Requests.
 
